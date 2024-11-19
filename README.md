@@ -1,2 +1,2 @@
 # ProgrammingQC
-Python notebook files in "Learning Quantum Computing through Programming"
+Python notebook files used in "Learning Quantum Computing through Programming"
